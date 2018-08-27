@@ -6,7 +6,7 @@ This extension provides [Typed Lua](https://github.com/andremm/typedlua) support
 
 You will need:
 
- * The [Typed Lua Language Server](https://github.com/martanne/lua-lsp), make sure `lua-lsp` is in your `$PATH` or adjust the `package.json`.
+ * The [Typed Lua Language Server](https://github.com/mascarenhas/lua-lsp), make sure `lua-lsp` is in your `$PATH` or adjust the `package.json`.
  * [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
  * [Visual Studio Code](https://code.visualstudio.com/)
 
